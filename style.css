@@ -169,7 +169,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:hover:not(.icon) {
     text-decoration: underline;
 }
 
