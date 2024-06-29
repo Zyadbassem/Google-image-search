@@ -54,3 +54,29 @@ img {
 .icon:hover {
     background-color: #c0c0c01d;
 }
+
+.google {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-top: 90px;
+}
+
+.google h1 {
+    font-size: 100px;
+    color: white;
+}
+
+.description {
+    margin-top: -20px;
+    width: 260px;
+    display: flex;
+    justify-content: end;
+}
+
+.description p {
+    color: #4487f6;
+}
